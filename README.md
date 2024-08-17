@@ -1,1 +1,1 @@
-<h1>These are my tricks learned from the book <br><span style="margin:auto;">Effective Java</span>!</h1> 
+<h1 style="margin:auto;">These are my tricks learned from the book <br>Effective Java!</h1> 
